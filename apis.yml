@@ -1,8 +1,26 @@
 aid: howdy
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/howdy.png
 name: Howdy
-description: Howdy is a company surfaced as a portfolio company of bloomberg-beta, obvious-ventures and
-  added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: 'Howdy is a nearshore talent platform that connects US companies with senior
+  software engineers, data, DevOps, design, and product professionals across Latin America.
+  Operating as an employer of record (EOR), Howdy handles recruiting, vetting, payroll,
+  benefits, equipment, compliance, and team performance coaching through physical "Howdy
+  Houses" in cities across the region. Founded in 2018 in Austin, Texas by Jacqueline
+  Samira and Frank Licea, the company went through Y Combinator (W21) and acquired the
+  Brazilian recruiting platform GeekHunter in 2023. It is a services/staffing business
+  with no public developer API; this profile captures its public web, agent-facing, and
+  legal surface.'
 url: https://raw.githubusercontent.com/api-evangelist/howdy/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,11 +29,21 @@ x-backed-by:
 - obvious-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-has-api: false
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Staffing
+- Recruiting
+- Talent
+- Nearshore
+- Latin America
+- Software Development
+- Employer of Record
+- Hiring
+- Engineering Teams
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,4 +52,23 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://howdy.ai/
+  url: https://www.howdy.com/
+- type: Blog
+  url: https://www.howdy.com/blog/
+- type: Support
+  url: https://www.howdy.com/faq
+- type: TermsOfService
+  url: https://www.howdy.com/terms-and-conditions
+- type: PrivacyPolicy
+  url: https://www.howdy.com/privacy-policy/
+- type: LLMsTxt
+  url: https://raw.githubusercontent.com/api-evangelist/howdy/refs/heads/main/llms/howdy-llms.txt
+- type: DomainSecurity
+  url: https://raw.githubusercontent.com/api-evangelist/howdy/refs/heads/main/security/howdy-domain-security.yml
+- type: WellKnown
+  url: https://raw.githubusercontent.com/api-evangelist/howdy/refs/heads/main/well-known/howdy-well-known.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

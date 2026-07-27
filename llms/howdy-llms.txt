@@ -1,0 +1,32 @@
+# Howdy
+
+> Howdy is a nearshore talent platform and employer of record (EOR) that connects US
+> companies with senior software engineers, data, DevOps, design, and product professionals
+> across Latin America. Howdy handles recruiting, vetting, payroll, benefits, equipment,
+> compliance, and team performance coaching. Founded in 2018 in Austin, Texas; Y Combinator
+> W21. Howdy is a services/staffing business and does not publish a public developer API.
+
+## About
+- [Howdy home](https://www.howdy.com/): Company homepage and services overview.
+- [About Howdy](https://www.howdy.com/about-us/): Company background, mission, and team.
+- [Solutions](https://www.howdy.com/solutions/software-development): Software development, AI/ML, data engineering, DevOps, design, and product staffing.
+- [Case studies](https://www.howdy.com/case-studies/): Customer stories and outcomes.
+
+## For agents and AI
+- [For AI](https://www.howdy.com/for-ai): Text-only, low-bandwidth content index of 80+ articles curated for AI crawlers and agents.
+- [Glossary](https://www.howdy.com/glossary/): Definitions of hiring, staffing, and engineering terms.
+
+## Content
+- [Blog](https://www.howdy.com/blog/): Articles on nearshore hiring, EOR, compliance, and building distributed engineering teams.
+- [FAQ](https://www.howdy.com/faq): Frequently asked questions about Howdy's model and services.
+
+## Getting in touch
+- [Book a demo](https://www.howdy.com/book-a-demo): Talk to sales and get a cost estimate.
+
+## Legal
+- [Terms & Conditions](https://www.howdy.com/terms-and-conditions): Master services agreement and usage terms.
+- [Privacy Policy](https://www.howdy.com/privacy-policy/): Data handling, CCPA, and GDPR practices.
+
+## Notes
+- No public developer API, OpenAPI, SDKs, developer portal, or GitHub organization were found (checked 2026-07-19).
+- Contact: info@howdy.com

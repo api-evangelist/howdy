@@ -1,0 +1,21 @@
+generated: '2026-07-19'
+method: searched
+source: probed https://www.howdy.com/.well-known/*
+host: https://www.howdy.com
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /ai-plugin.json
+  status: 404
+- path: /llms.txt
+  status: 404
+notes: >-
+  Howdy publishes no /.well-known/ discovery documents and no llms.txt. It does
+  serve a text-only agent-facing content index at https://www.howdy.com/for-ai
+  (HTTP 200), a curated directory of 80+ blog articles for AI crawlers.
