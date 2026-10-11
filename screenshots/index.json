@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "howdy",
+    "captured_at": "2026-10-11T190405",
+    "source_url": "https://www.howdy.com/",
+    "source_type": "Website",
+    "file": "howdy-2026-10-11T190405.png",
+    "bytes": 287852,
+    "capture": "playwright-local"
+  }
+]
